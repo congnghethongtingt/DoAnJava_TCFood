@@ -1,7 +1,7 @@
-# 🤡 ĐỒ ÁN JAVA SWING - QUẢN LÝ QUÁN ĂN NHANH 🥘
+# ĐỒ ÁN JAVA SWING - QUẢN LÝ QUÁN ĂN NHANH 🥘
 
 - Đồ án này còn khá nhiều lỗi, thiếu nhiều chức năng nghiệp vụ mình đang cải thiện và phát triển lên cho đồ án sau của mình, mình sẽ cập nhật và chia sẻ sau khi hoàn thành.
-- Vì đây là đồ án sinh viên, mình sẽ không chịu trách nhiệm các vấn đề khác về phần mềm, các vấn đề lấy source của mình nộp cho đồ án của các bạn. Mình tạo bài này mang tính chất cho các bạn xem tham khảo và với tinh thần mong nhận được những góp ý cần cải thiện về phần mềm ở những trang của mình như ⬇️
+- Vì đây là đồ án sinh viên, mình sẽ không chịu trách nhiệm các vấn đề khác về phần mềm, các vấn đề lấy source của mình nộp cho đồ án của các bạn. Mình tạo bài này mang tính chất cho các bạn xem tham khảo và với tinh thần mong nhận được những góp ý cần cải thiện về phần mềm ở những trang của mình ở ⬇️🤡
 
   * <a href="https://www.facebook.com/congnghethongtingt"><img align="left" width="30" height="30" 
 src="https://github.com/giathanh2512/giathanh2512/blob/main/Photos/facebook_36px.png?raw=true">Facebook</a>
